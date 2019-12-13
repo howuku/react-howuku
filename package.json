@@ -1,0 +1,26 @@
+{
+	"name": "react-howuku",
+	"version": "2.0.2",
+	"description": "Small component to implement Howuku into your react application",
+	"main": "index.js",
+	"scripts": {
+		"test": "-"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/howuku/react-howuku.git"
+	},
+	"keywords": [
+		"Howuku",
+		"React"
+	],
+	"author": "Howuku Analytics",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/howuku/react-howuku/issues"
+	},
+	"homepage": "https://github.com/howuku/react-howuku#readme",
+	"devDependencies": {
+		"eslint": "^6.5.1"
+	}
+}
